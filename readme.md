@@ -114,7 +114,7 @@ Contributions are welcome! Please submit pull requests or open issues to suggest
 
 ## License
 
-[Choose an appropriate license, e.g., MIT License]
+MIT License
 
 ## Acknowledgments
 
